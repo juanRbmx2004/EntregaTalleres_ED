@@ -63,7 +63,7 @@ fun main(){
         if(opcion == 4){
             print("\ncuantos pisos tiene el edificion: ")
             var pisosPositivos = readln().toInt()
-            print("\ncuantos ascensores: ")
+            print("\ncuantos sotanos: ")
             var pisosSotani = readln().toInt()
             print("\npiso actual del ascensor: ")
             var nawPiso = readln().toInt()
