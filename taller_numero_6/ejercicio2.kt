@@ -78,13 +78,13 @@ fun main(){
             }
         }
         else if(opcion==1){
-            acensor.SubirUnPiso(Pisos)
+            print("\nPiso a subir: ${acensor.SubirUnPiso(Pisos)}")
         }
         else if(opcion==2){
-            acensor.BajarUnPiso(Pisos)
+            print("\n piso a bajar: ${acensor.BajarUnPiso(Pisos)}")
         }
         else if(opcion == 3){
-            acensor.PisosAtener(Pisos)
+            print("\npisos a atender ${acensor.PisosAtener(Pisos)}")
         }
         else if(opcion == 5){
             print("\nHas salido")
