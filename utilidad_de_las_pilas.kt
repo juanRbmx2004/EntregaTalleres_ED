@@ -126,7 +126,7 @@ object Evaluador {
 
 }
 fun main(){
-    /* importanteeee PROFEEE si ve este main es para evidenciar que el codigo si esta bien echo
+    /* importanteeee PROFEEE si ve este main es para evidenciar que el codigo si esta bien hecho
        pero nose por que no me coge en el test, me di cuenta que era por que tomaba el valanceo de la
        expresion como falsa pero ps ud mismo sabe que si lo esta.*/
 
